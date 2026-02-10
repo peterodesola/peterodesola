@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+Power+Bi+Excel+SQL;Applying+data+analysis,+data+analytics,+AI,+and+machine+learning+to+healthcare+analytics,+equity,+and+inclusive+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python,+Power+Bi,+Excel,+SQL;Applying+data+analysis,+data+analytics,+AI,+and+machine+learning+to+healthcare+analytics,+equity,+and+inclusive+learning;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -19,7 +19,7 @@ I am an AI and Data Science professional focused on data analysis, data analytic
 When I'm not working with data, I enjoy reading, playing piano, watching and playing football. I also enjoy playing chess and scrabble. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://peterodesola.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://peter-odesola.github.io/)
 
 ### [🏆 Check Out My Full Portfolio Website](https://wiggly-citrine-e45.notion.site/PETER-ODESOLA-DATA-PORTFOLIO-ac6a5ecdbdb94475be4a758151b95208.io/)
       
