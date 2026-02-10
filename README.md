@@ -19,7 +19,7 @@ I am an AI and Data Science professional focused on data analysis, data analytic
 When I'm not working with data, I enjoy reading, playing piano, watching and playing football. I also enjoy playing chess and scrabble. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://peterodesola.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://peterodesola.github)
 
 ### [🏆 Check Out My Full Portfolio Website](https://wiggly-citrine-e45.notion.site/PETER-ODESOLA-DATA-PORTFOLIO-ac6a5ecdbdb94475be4a758151b95208)
       
