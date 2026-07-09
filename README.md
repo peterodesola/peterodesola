@@ -14,14 +14,37 @@
 </p>
 
 ## 🚀 About Me 
-I am an AI and Data Science professional focused on data analysis, data analytics, machine learning, and ethical AI for healthcare and social impact. My work centres on transforming complex health and inequality datasets into actionable insights, predictive models, and interactive applications. I have research experience in uncertainty-aware healthcare machine learning, including heart disease risk prediction and AI-driven clinical decision support for Polycystic Ovary Syndrome (PCOS). Through applied analytics, reproducible workflows, and clear data storytelling, I aim to build responsible, inclusive data solutions that support better decision-making in public health and beyond
+I am a Data Analyst and AI & Data Science professional focused on turning complex operational and healthcare datasets into clear, actionable insights for decision‑makers. I specialise in Python, SQL, Power BI and Excel, building end‑to‑end analytics workflows from data cleaning and modelling through to dashboards and narrative reporting. Recent projects include healthcare billing analytics, gender inequality index modelling, and biomedical text curation, all designed to support evidence‑based, public‑sector‑style decision making.
 
 When I'm not working with data, I enjoy reading, playing piano, watching and playing football. I also enjoy playing chess and scrabble. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/peterodesola)
+## 🏆 Featured Projects
 
-### [🏆 Check Out My Full Portfolio Website](https://wiggly-citrine-e45.notion.site/PETER-ODESOLA-DATA-PORTFOLIO-ac6a5ecdbdb94475be4a758151b95208)
+### Health Inequality Analytics – Python & Streamlit
+Global Gender Inequality Index analysis with full data pipeline (cleaning, feature engineering, visualisation) and an interactive Streamlit app for scenario exploration and policy support.  
+**Skills:** Python, Pandas, Scikit‑learn, Streamlit, Data Visualisation, Statistical Analysis
+
+### Healthcare Billing Dashboard – Power BI
+Interactive Power BI report on 50K+ patient records, highlighting billing KPIs, chronic conditions and insurance patterns to inform resource allocation and service planning.  
+**Skills:** Power BI, Power Query, DAX, KPI Design, Healthcare Analytics
+
+### Heart Disease Risk Prediction – ML + Streamlit
+Ensemble machine learning models (Random Forest, XGBoost) for heart disease prediction, with thorough EDA, model evaluation (ROC‑AUC, F1), and a web GUI for non‑technical users.  
+**Skills:** Python, Scikit‑learn, XGBoost, Model Evaluation, Streamlit, Data Storytelling
+
+### Biomedical Text Data Curation – NLP
+Curated and documented a biomedical abstracts dataset (5,901 records) with deduplication, label taxonomy, and PubMed‑linked provenance to enable reproducible text‑classification research.  
+**Skills:** Data Cleaning, NLP, Corpus Design, Provenance Tracking, Reproducible Workflows
+
+## 📈 Portfolio Snapshot
+
+- 13+ public data & analytics projects across Python, Power BI and ML
+- 3+ deployed web apps using Streamlit and AI chatbot frameworks
+- Healthcare, inequality and business analytics domains with end‑to‑end pipelines (data cleaning → modelling → dashboards → narrative reports)
+
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+
+### [🏆 Portfolio Website](https://wiggly-citrine-e45.notion.site/PETER-ODESOLA-DATA-PORTFOLIO-ac6a5ecdbdb94475be4a758151b95208)
       
 ## 🔭 What I'm Currently Working On 
 
